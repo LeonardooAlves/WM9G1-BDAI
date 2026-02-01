@@ -84,39 +84,6 @@ Week-4/
 
 ---
 
-## Getting Started
-
-### Prerequisites
-
-Before beginning the tutorials, ensure you have:
-
-- **Python 3.8+** installed on your system.
-- Access to **Google Colab** or **Jupyter Notebook** or **JupyterLab**.
-- Basic familiarity with programming concepts.
-
-
-### Installation
-
-1. **Clone this repository:**
-   ```bash
-   git clone https://github.com/LeonardooAlves/WM9G1-BDAI/
-   cd WM9G1-15-BDAI
-   ```
-
-2. **Launch Jupyter:**
-   ```bash
-   jupyter notebook
-   ```
-
-### First Steps
-
-1. **Complete the Module Preparation tutorials** to establish your foundation.
-2. **Follow the weekly sequence** - tutorials build upon previous concepts.
-3. **Attempt exercises independently** before checking solutions.
-4. **Experiment and modify code** - hands-on practice is essential.
-
----
-
 ## 📋 Assessment Alignment
 
 These tutorials directly support your module assessments:
@@ -131,11 +98,10 @@ The hands-on skills developed here will enable you to:
 - Discuss big data technologies and applications in business reports
 - Provide data-driven recommendations for engineering scenarios
 
----
 
 ## ⚖️ Academic Integrity
 
-These tutorials are provided for **educational purposes** within WM9G1-15. When using code or concepts in your assessments:
+These tutorials are provided for educational purposes within WM9G1-15. When using code or concepts in your assessments:
 
 - Adapt and extend the tutorial code to your specific scenarios
 - Cite sources appropriately in your reports
@@ -144,23 +110,9 @@ These tutorials are provided for **educational purposes** within WM9G1-15. When 
 
 ---
 
-## 📖 Additional Resources
-
-### Recommended Reading
-- Access the module's **Talis reading list** via Warwick Library
-- Interdisciplinary resources covering technology and business perspectives
-
-### Further Learning
-- [Python Documentation](https://docs.python.org/3/)
-- [Pandas Documentation](https://pandas.pydata.org/docs/)
-- [Scikit-learn Tutorials](https://scikit-learn.org/stable/tutorial/)
-- [Kaggle Learn](https://www.kaggle.com/learn) - Free micro-courses
-
----
-
 ## 📬 Contact Information
 
-**Module Leader:** Leonardo Alves Dias - 📧 [Leonardo.Alves-Dias@warwick.ac.uk](mailto:Leonardo.Alves-Dias@warwick.ac.uk)
+**Module Leader:** [Leonardo Alves Dias](mailto:Leonardo.Alves-Dias@warwick.ac.uk)
 **Department:** WMG, University of Warwick  
 **Module Code:** WM9G1-15  
 
