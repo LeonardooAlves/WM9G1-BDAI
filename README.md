@@ -110,12 +110,14 @@ These tutorials are provided for educational purposes within WM9G1-15. When usin
 
 ---
 
+
 ## 📬 Contact Information
 
-**Module Leader:** [Leonardo Alves Dias](mailto:Leonardo.Alves-Dias@warwick.ac.uk)
+**Module Leader:** 
+
+
+**Module Leader:** [Leonardo Alves Dias](mailto:Leonardo.Alves-Dias@warwick.ac.uk)\n  
 **Department:** WMG, University of Warwick  
 **Module Code:** WM9G1-15  
 
----
-
-**🚀 Ready to begin? Start with the Module Preparation tutorials and build your data analytics expertise!**
+For module-specific queries, please use official university communication channels.
