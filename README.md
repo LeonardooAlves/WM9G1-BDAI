@@ -116,7 +116,7 @@ These tutorials are provided for educational purposes within WM9G1-15. When usin
 **Module Leader:** 
 
 
-**Module Leader:** [Leonardo Alves Dias](mailto:Leonardo.Alves-Dias@warwick.ac.uk)\n  
+**Module Leader:** [Leonardo Alves Dias](mailto:Leonardo.Alves-Dias@warwick.ac.uk)  
 **Department:** WMG, University of Warwick  
 **Module Code:** WM9G1-15  
 
