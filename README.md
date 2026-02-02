@@ -3,7 +3,6 @@ MSc Engineering Business Management - Big Data Analytics for Industry Module
 ## Hands-On Tutorials Repository
 
 [![Module Code](https://img.shields.io/badge/Module-WM9G1--15-blue)](https://courses.warwick.ac.uk/modules/2025/WM9G1-15)
-<a href="https://courses.warwick.ac.uk/modules/2025/WM9G1-15" target="_blank">[![Module Code](https://img.shields.io/badge/Module-WM9G1--15-blue)]</a>
 [![Credits](https://img.shields.io/badge/Credits-15-green)]()
 [![Level](https://img.shields.io/badge/Level-Postgraduate-orange)]()
 [![Duration](https://img.shields.io/badge/Duration-4%20Weeks-purple)]()
