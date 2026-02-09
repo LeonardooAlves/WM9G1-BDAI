@@ -2,7 +2,7 @@
 
 This short document introduces the concept of APIs (application programming interfaces). This is really a fundamental component of modern software and the world we live in! Let's start with a useful video that explains the concept well:
 
-<video controls src = "https://user-images.githubusercontent.com/48418248/206932791-884abc1d-86f6-4b79-ba70-c0dd00e34417.mp4">
+https://user-images.githubusercontent.com/48418248/206932791-884abc1d-86f6-4b79-ba70-c0dd00e34417.mp4"
 
 Therefore, think of an API as a **waiter in a restaurant**:
 - You (client) make a **request** ("I'd like the pasta")
