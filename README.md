@@ -50,9 +50,9 @@ Module-Preparation/
 
 ```
 Week-1/
+├── APIs/                          # Accessing data through web APIs 
 ├── Data-Preprocessing-and-EDA/    # Cleaning, transforming, and exploring data
-├── APIs/                          # Accessing data through web APIs
-└── Web-Scraping/                  # Extracting data from websites
+└── MongoDB/                       # Setting up a Document NoSQL Database with CRUD operations
 ```
 
 ### Week 2: Analytics & Machine Learning
@@ -60,8 +60,8 @@ Week-1/
 
 ```
 Week-2/
-├── Clustering/                    # Unsupervised learning techniques
-├── Classification/                # Supervised learning for categorisation
+├── Clustering/                    # Unsupervised learning techniques (K-means & DBSCAN)
+└── Classification/                # Supervised learning for categorisation (Logistic Regression)
 ├── Regression/                    # Predictive modelling
 └── Data-Visualisation/            # Communicating insights effectively
 ```
@@ -70,8 +70,10 @@ Week-2/
 **Theme:** *Specialised Analytical Techniques*
 
 ```
-Week-3/
-└── Text-Analysis/                 # Natural language processing and text mining
+Week-3/    
+├── Regression/                    # Predictive modelling (Multiple Linear Regression)
+├── Text-Analysis/                 # Natural language processing (NLP) and text mining
+└── Sentiment-Analysis/            # Sentiment Analysis applications
 ```
 
 ### Week 4: Emerging Technologies
